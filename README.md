@@ -7,7 +7,7 @@ Di sini, Anda akan menemukan berbagai proyek yang telah saya kerjakan. Beberapa 
 - **[Proyek Dicoding](https://github.com/nopalsh/dicoding-machine-learning)**
 - **[Proyek Web (Selesai)](https://github.com/nopalsh/web-project-archive)**
 - **[Proyek Web (Pending)](https://github.com/nopalsh/3-web-projects)**
-- **[Proyek Lainnya (Gratis))](https://github.com/nopalsh/my-projects)**
+- **[Proyek Lainnya (Free)](https://github.com/nopalsh/my-projects)**
 
 ## 👥 Pengembang Proyek
 
