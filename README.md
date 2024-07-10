@@ -1,7 +1,3 @@
-# Nopalsh
-
-Haii, Selamat datang di GitHub saya!
-
 ## Tentang Saya
 Nama saya [Mochamad Naufal Shofy], seorang yang familiar dengan pengembangan machine learning dan web
 
