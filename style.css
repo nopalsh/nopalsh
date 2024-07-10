@@ -1,0 +1,186 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background: #ffffff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header.jumbotron {
+  background: linear-gradient(135deg, #42047e, #07f49e);
+  color: white;
+  padding: 75px 0;
+  text-align: center;
+}
+
+.jumbotron img {
+  max-width: 120px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  border: 2px solid #ffffff;
+  margin-right: -100px;
+}
+
+.jumbotron h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.jumbotron p {
+  font-size: 1.5rem;
+  text-align: left;
+}
+
+section#about {
+  background: #fdfdfd;
+  margin-top: -100px;
+  padding-top: 50px;
+  border-top-left-radius: 10% 10%;
+  border-top-right-radius: 10% 10%;
+}
+
+section#projects {
+  background: #f8f9fa;
+}
+
+section#contact {
+  background: #ffffff;
+}
+
+.card {
+  border-radius: 20px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.15);
+}
+
+footer {
+  background: linear-gradient(135deg, #42047e, #07f49e);
+  color: white;
+  padding: 30px 0;
+  text-align: center;
+  border-top-left-radius: 50% 20%;
+  border-top-right-radius: 50% 20%;
+}
+
+.btn-primary {
+  background-color: #42047e;
+  border-color: #42047e;
+  border-radius: 20px;
+  padding: 12px 24px;
+}
+
+.btn-primary:hover {
+  background-color: #37056b;
+  border-color: #37056b;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.py-5 {
+  padding: 3rem 0;
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}
+
+.modal-header {
+  background-color: #37056b;
+  color: #fff;
+}
+
+.modal-header .close {
+  color: #fff;
+}
+
+.modal-body {
+  padding: 1.5rem;
+}
+
+.experience-card {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1rem;
+  align-items: start;
+  background-color: #ffffff;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.experience-card .icon {
+  font-size: 2rem;
+  color: #37056b;
+}
+
+.experience-card h6 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.experience-card p {
+  margin: 0;
+  color: #6c757d;
+  line-height: 1.5;
+}
+
+.experience-card p span {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #495057;
+}
+.certification-card {
+  display: flex;
+  align-items: center;
+  border: none;
+  background-color: #ffffff;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.certification-card img {
+  margin-right: 1rem;
+  width: 75px;
+}
+
+.certification-card h6 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.certification-card p {
+  margin: 0;
+  color: #6c757d;
+}
+
+@media (max-width: 768px) {
+  .jumbotron h2,
+  .jumbotron p {
+    text-align: center;
+  }
+
+  .jumbotron img {
+    margin-right: 0;
+    margin-bottom: 30px;
+  }
+}
