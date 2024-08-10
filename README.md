@@ -5,8 +5,8 @@ Nama saya **Mochamad Naufal Shofy**, seorang yang familiar dengan pengembangan m
 Di sini, Anda akan menemukan berbagai proyek yang telah saya kerjakan. Beberapa di antaranya adalah:
 
 - **[Proyek Dicoding - Machine Learning](https://github.com/nopalsh/dicoding-machine-learning)**
-- **[Proyek Web (Selesai)](https://github.com/nopalsh/web-project-archive)** 
-- **[Proyek Web (Pending)](https://github.com/nopalsh/3-web-projects)** 
+- **[Proyek Web (Completed)](https://github.com/nopalsh/web-project-archive)** 
+- **[Proyek Web (Pending Payment)](https://github.com/nopalsh/3-web-projects)** 
 - **[Proyek Lainnya (Free)](https://github.com/nopalsh/my-projects)** 
 
 ## 📬 Kontak
